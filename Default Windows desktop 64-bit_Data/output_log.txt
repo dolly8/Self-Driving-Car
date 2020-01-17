@@ -1,0 +1,72 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DappPolatform assemgly:x C:\Users\Dsapplogix\Documfents\self_dridesktop 64ing\Defaulbt WindowManaged\Asses ly-Uniop 64-bit_Data\ManagtyScript.dll (this-firstp ss.dll (thisessage is  memless)
+Loadins C:\Usersharmless)DLoading C:\UsersaDapplogxix\Documes\self_drining\\elf_drivDefaultault Wind ws desktopW64n-bit_Data\Mp 64-bit_Datanaged\Assembly-ly-UnitySCriparpd-firstpasns.dll into Unaity
+ Child Domain
+Platform aPsembly:m ass\emers\DaCpplogix\Documogits\self_dr\Documenti\velf_drifault Wiving\Defautop 64-bil_D Windowsadesktonaged\UnityEp ine.Nittworking._lla (this ged\AssemblymeSharp.dls harmlessl
+ (this mes sage is harmlless)DocLoadin\self_drg C:\Useis\Ding\Defaulapplogixs deskto\ 64-bit_Da\self_driaving\DefaulttyEngine.Net orkning.dlel into Unity DChild Domeain
+sembly-CSharp.dll into Unity Child Domain
+PlatfoPmlastfmbrm: asseUsbly:\ applogixC:\Users\Dapplogix\Documents\self_driving\Defap 64-bit_Dult Windged\Units desktop yEngine.UI.dll (thisAsmsemble isyharmlessU)
+tyScoript.dl:l (this amessage\Docum is harml_drivingeDef)a
+ult Wdindows desktopa 64-bit_Data\Managsed\UnityEngine.UI.d Windows desll into Unity Child DomaiAssembly-nityScript.dll into Unity Child DomaiP
+latform assembly: C:\Users\Dapplogix\Documents\self_driving\Defaultlatform asiembloys de:sUserk\taopl gi6\D4cu-bnis\telf_adr\ianng\Dd\Unlt Wingins dCsktopB il4dbilt_(tata\Manageedi\UhnriltssE)g
+ne.Netwooraing.dll (tding Cs:a\eUis rasm\eDsa
+ppoldong i:xUsers\Dants\self_gix\DogumDefatlt\ Wlfdowsivdensktop 6lt-bWi_ndows desktop 64-bEngine.Cit_Data\Manal into gnity Chiyld Domain
+working.dll into Unity Child Domain
+Platform assembly: C:\Users\Dapplogix\Documents\self_driviPlatform asWiendows desUsers\Daptop 64-pit_Data\Managned\UniFileBrowgser.dll (this ws sdesktop 64-bit_sDa
+taLoading C:\Userngine.UIs\Dapplogixmessage isocuments\ harmless)
+g\DLfaault Win\Users\Dapdows deskcumenttop 64-bit_Data\Managed\UniFileBrowser.64-bit_Ddll into Unity Child Domainll into Unity Child Domain
+Platform assembly: C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\Dapplogix\Documents\self_driving\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\User-\DaCompletedprelload, in  ents\selef_driv
+ing\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\Dapplogix\DocumPnlatfelf_orrving\Dm assembly: C:\Users\Dapplogix\Documents\self_driving\Default Ws meindows desktmop 64-
+bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dapplogix\Documents\self_drPlatform asse Winmowls desktop 64-bipt_gix\DoManageumentsd\System.dll (this message is harmles 64-bst_Dat)Managed\System.dll (this message is harmless)
+OnLevelWnsLoaelWasLoded was found  on Ron ReturnToMeain
+Menu
+This me ssage en dbeprecateec and wiated and wved in al later veved in a later vrsion of Unity.
+Add aa delegaete to SceManager.neManager.sceneLoad to get noaificatidne after sce ne loading has completed
+ 
+(Filenaome:  Line: 375)
+
+ed
+ 
+(Filename:  Line: 375)
+
+Platform assembPlatform asseDabpplog:ix\Documentsogsix\Document\DefaultsWiself_drindows desktopW 64-bit_Datta\Managed\DMono.Securdity.dll (thisy.dll (th s msessage is hmless)
+armless)
+PlatfPrm aform assessembly: C:\Usersapplogix\Documemntts\self_driving\_driving\Dedfault Winop 64-bidows desktoged\Boo.Lp 64-bit_Dats messagea\s harmld\sBo
+o.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
